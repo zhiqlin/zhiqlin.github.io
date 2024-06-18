@@ -1,0 +1,41 @@
+Resource
+Zhiqiang Lin
+$Id: resource.t2t, v1.0, last updated %%mtime(%c) Exp $
+
+%! Target:
+%! Options: --toc --css-sugar --encoding=iso-8859-1
+%! Style: tech.css
+%! PreProc:
+%! PostProc:
+%! include: ''rs.js''
+
+=== Some links might be useful ===
+---------------------------------------------------------------------------
+
+- [Researchers Bible http://www.ifs.tuwien.ac.at/%7Esilvia/research-tips/researchers_bible-1999.pdf]
+- [How to do research http://www.ifs.tuwien.ac.at/~silvia/research-tips/]
+- [What is Research in Computer Science http://www.dcs.gla.ac.uk/~johnson/teaching/research_skills/research.html]
+- [Basic Research Skills in Computer Science http://www.dcs.gla.ac.uk/~johnson/teaching/research_skills/basics.html]
+- [Advice on Research and Writing http://www.cs.cmu.edu/afs/cs.cmu.edu/user/mleone/web/how-to.html]
+- [Surviving the PhD Viva (by Jane Grimson) http://www.cs.cf.ac.uk/Bncod16/grimson.ppt]
+- [Advice Collection http://www.csc.ncsu.edu/faculty/xie/advice.htm]
+- Security People (By [David Wagner http://www.cs.berkeley.edu/%7Edaw/people/crypto.html], by 
+[Bruno Crispo http://www.cs.vu.nl/%7Ecrispo/security/people.html], and by [me people.html])
+- [Computer Security Conference Ranking and Statistic http://www.cc.gatech.edu/~guofei/sec_conf_stat.htm]
+- Security conference call-for-paper list
+  - [IEEE Cipher http://www.ieee-security.org/CFP/Cipher-Call-for-Papers.html]
+  - [Carrie Gates http://flame.cs.dal.ca/~gates/conferences.html]
+  - [Benoit Libert et al http://www.dice.ucl.ac.be/crypto/callforpapers]
+  - [Mohammad Mannan http://www.ccsl.carleton.ca/conferences/]
+  - [Bruno Crispo http://www.cs.vu.nl/~crispo/security/conf_call.html]
+
+- Some helpful resources on digital forensics research
+  - http://www.usainvestigators.com/a-beginners-guide-to-digital-forensics-infographic
+  - http://computer-forensics.safemode.org/
+  - https://forensiccontrol.com/resources/beginners-guide-computer-forensics/
+
+
+- [CUTTING EDGE COMPUTER SCIENCE http://www.computerscienceonline.org/cutting-edge/]
+---------------------------------------------------------------------------
+[HOME index.html]  [SOURCE %%infile]
+
