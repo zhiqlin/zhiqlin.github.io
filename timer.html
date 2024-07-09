@@ -1,0 +1,33 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01//EN"
+   "http://www.w3.org/TR/html4/strict.dtd">
+<html>
+<head>
+  <meta http-equiv="content-type" content="text/html; charset=UTF-8">
+  <title>Presentation Timer</title>
+
+  <style type="text/css">input{width:36pt}div{width:100%;height:100%;color:#000;text-align:center;font-family:"Trebuchet MS";font-size:320pt}#mins{font-size:480pt;font-weight:bold}</style>
+
+  <script type="text/javascript">var end=0;function createCookie(name,value,days){if(days){var date=new Date();date.setTime(date.getTime()+(days*24*60*60*1000));var expires="; expires="+date.toGMTString();}
+else var expires="";document.cookie=name+"="+value+expires+"; path=/";}
+function readCookie(name){var nameEQ=name+"=";var ca=document.cookie.split(';');for(var i=0;i<ca.length;i++){var c=ca[i];while(c.charAt(0)==' ')c=c.substring(1,c.length);if(c.indexOf(nameEQ)==0)return c.substring(nameEQ.length,c.length);}
+return null;}
+function now(){var t=new Date();return t.getTime();}
+function set(){var left=parseFloat(document.config.left.value);end=now()+left*60*1000;createCookie('timeEnd',end,7);}
+function start(){end=readCookie('timeEnd');show();}
+function show(){var left=end-now();if(left<0){var color='red';left=left-1000;}else{var color='black';}
+left=Math.abs(left);var mins=Math.floor(left/1000/60);var secs=Math.floor(left/1000%60);if(secs<10){secs='0'+secs;}
+var timeDiv=document.getElementById('time')
+var minDiv=document.getElementById('mins')
+var secDiv=document.getElementById('secs')
+minDiv.innerHTML=mins;secDiv.innerHTML=secs;timeDiv.style.color=color;setTimeout("show()",1000);}</script>
+
+</head>
+
+<body onload="start()">
+
+<form name="config" onsubmit="set(); return false;">Minutes left: <input name="left" value="25"> <input type="button" value="Set" onclick="set()"> <input type="button" value="Start" onclick="set()"> </form>
+
+<div id="time"><span id="mins"></span>:<span id="secs"></span></div>
+
+</body>
+</html>
