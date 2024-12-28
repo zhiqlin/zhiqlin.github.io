@@ -1,0 +1,94 @@
+$ Last updated: Sun Dec  1 03:42:55 PM EST 2024 $
+
+
+
+%! Target:
+%! Options: --toc --encoding=iso-8859-1
+%! Style: tech.css
+%! PreProc:
+%! PostProc:
+
+---------------------------------------------------------------------------
+
+=== 2024 ===
+
+ - 11/21/2024, Security-Enhanced Radio Access Networks for 5G OpenRAN [[PDF file/talks/SE-RAN.pdf]], Research Seminar at Mohamed bin Zayed University of Artificial Intelligence (MBZUAI), Abu Dhabi, UAE.
+ - 11/20/2024, Security-Enhanced Radio Access Networks for 5G OpenRAN, **Keynote** at 18th International Conference on Network and System Security ([NSS'24 https://nsclab.org/nss-socialsec2024/keynote.html]), Abu Dhabi, UAE.
+ - 11/12/2024, Security-Enhanced Radio Access Networks for 5G OpenRAN, Invited Talk at Hong Kong University of Science and Technology (HKUST), Hong Kong.
+ - 09/20/2024, Security-Enhanced Radio Access Networks for 5G OpenRAN, Invited Talk at University of Delaware, Newark, DE 
+ - 09/13/2024, Security-Enhanced Radio Access Networks for 5G OpenRAN, Invited Talk at Michigan State University, Lansing, MI
+ - 05/08/2024, Unpacking the Threats of All-in-One Mobile Super Apps [[PDF file/talks/Super_WSU.pdf]], **Distinguished Lecture** at Washington State University.
+ - 05/02/2024, Rethinking the Security and Privacy of Bluetooth Low Energy [[PDF file/talks/Bluetooth_JHU.pdf]], **Gerald M. Masson Distinguished Lecture** at Johns Hopkins University
+ - 04/15/2024, Rethinking the Security and Privacy of Bluetooth Low Energy, **Distinguished Lecture** at George Mason University
+
+
+=== 2023 ===
+
+ - 10/17/2023, Unpacking the Threats of All-in-One Mobile Super Apps [[PDF file/talks/super-apps-talk-raid.pdf]], **keynote** at The 26th International Symposium on Research in Attacks, Intrusions and Defenses ([RAID 2023 https://raid2023.org/program.html]), Hong Kong.
+ - 08/11/2023, When Super Apps Become Operating Systems: The Good, The Bad, and The Ugly [[PDF file/talks/super-apps-talk-snap.pdf]], invited talk at Snap Inc.,  Santa Monica, California
+ - 06/07/2023, When Super Apps Become Operating Systems: The Good, The Bad, and The Ugly [[PDF file/talks/super-apps-talk-tencent.pdf]], invited talk at Tencent Inc., Guangzhou, China
+ - 06/01/2023, Rethinking the Security and Privacy of Bluetooth Low Energy [[PDF file/talks/Bluetooth_Tech_Talk_2023_06_01.pdf]], invited talk at Hong Kong Polytechnic University
+ - 04/18/2023, Unlocking the Potential of Domain Aware Binary Analysis in the Era of IoT [[PDF file/talks/Domain_aware_binary_analysis_slides.pdf]], invited talk at the Cybersecurity Club meetings at OSU
+ - 04/13/2023, Rethinking the Security and Privacy of Bluetooth Low Energy [[PDF file/talks/Rethink_BLE_Security_Privacy_WUSTL_2023.pdf]], invited talk at Washington University at St. Louis
+ - 04/07/2023, Unlocking the Potential of Domain Aware Binary Analysis in the Era of IoT, **Distinguished Talk** at Cybersecurity Symposium at Arizona State University
+ - 03/03/2023, Unlocking the Potential of Domain Aware Binary Analysis in the Era of IoT, **Keynote** at Workshop on Binary Analysis Research (BAR)
+
+
+
+
+=== 2022 ===
+
+  - 12/06/2022, Towards Distributed and Virtualized Trusted Execution Environments [[PDF file/vTEE_PaveTrust22.pdf]], invited talk at //2nd Program Analysis and Verification on Trusted Platforms (PAVeTrust) Workshop// ([PAVeTrust https://www.acsac.org/2022/workshops/pavetrust/PAVeTrust2022-program.pdf])
+  - 12/01/2022, Rethinking the Security and Privacy of Bluetooth Low Energy [[PDF file/Rethink_BLE_Security_Privacy_AI-Edge_2022.pdf]] [[Youtube https://www.youtube.com/watch?v=HhI5KSJCmSo]], invited talk at  Future Edge Networks and Distributed Intelligence [AI-Edge Seminar Series https://aiedge.osu.edu/sites/default/files/2022-11/AI-EDGE-Seminar11.pdf] 
+  - 11/30/2022, Rethinking the Security and Privacy of Bluetooth Low Energy [[PDF file/Rethink_BLE_Security_Privacy_Dartmouth_2022.pdf]], invited talk by the [Splice group https://splice-project.org/people/] at Dartmouth College
+  - 10/25/2022, Rethinking the Security and Privacy of Bluetooth Low Energy [[PDF file/talks/Bluetooth_Rethink_Slides_SNU_2022.pdf]], invited talk at Seoul National University
+  - 10/17/2022, Rethinking the Security and Privacy of Bluetooth Low Energy [[PDF file/Rethink-BLE-2022_Purdue.pdf]], Computer Science Colloquium at Purdue University
+  - 10/14/2022, Rethinking the Security and Privacy of Bluetooth Low Energy [[PDF file/Rethink-BLE-2022_MTU.pdf]], Computer Science Colloquium at Michigan Technological University
+  - 10/03/2022, Why do we do Research in Cybersecurity? [[PDF file/NAS_22_Panel_Lin.pdf]], panel discussion at 16th International Conference on Networking, Architecture, and Storage ([NAS 2022 http://www.nas-conference.org/NAS-2022/index.html])
+  - 09/30/2022, Rethinking the Security and Privacy of Bluetooth Low Energy [[PDF file/Bluetooth_Rethink_Slides_2022_keynote.pdf]], **keynote** at The 5th International Workshop on Attacks and Defenses for Internet-of-Things ([ADIoT 2022 https://adiot.compute.dtu.dk/2022/])
+  - 07/27/2022, Towards a TEE-based V2V Protocol for Connectedand Autonomous Vehicles [[PDF file/V2V_SGX.pdf]], invited talk at the [3rd SGX Community Day Virtual Event https://community.intel.com/t5/Blogs/Tech-Innovation/Data-Center/Third-SGX-Community-Day/post/1393177]
+  - 07/14/2022, Towards Distributed and Virtualized Trusted Execution Environments [[PDF file/vTEE_talks.pdf]], **distinguished lecture** at School of Electrical and Information Engineering in University of Sydney
+  - 02/03/2022, Using Symbolic Formal Verification to Identify State Continuity vulnerabilities in Enclave Programs [[PPTX file/SGX-Verify-Feb3-2022-seL4.pptx]], invited talk at [Trusted Computing Center of Excellence (TCCoE) Summit https://trustedcomputingcoe.org/summits/2022-summit/]
+  
+
+
+
+=== 2021 ===
+
+  - 12/10/2021, Towards Distributed and Virtualized Trusted Execution Environments [[PDF file/Distributed-TEE-Keynote-2021.pdf]], **Keynote** at //4th EAI International Conference on Security and Privacy in New Computing Environments// ([SPNCE'21 https://spnce.eai-conferences.org/2021/keynotes/])
+  - 12/06/2021, Understanding the Security and Privacy of Bluetooth Low Energy
+ [[PPTX file/CSR-Bluetooth2021.pptx]], virtual talk at [exploreCSR@OSU https://sites.google.com/view/explorecsrosu], [Labs file/Bluetooth_Security_Lab_2021.pdf] [Latex source https://www.overleaf.com/read/chbfkvqdvjbj]
+  - 10/05/2021, **Why Cybersecurity is Hard** [[PPTX file/talks/Why-security-is-so-hard.pptx]][[Youtube https://www.youtube.com/watch?v=KaX7UgpAN78]][[Bilibili https://www.bilibili.com/video/BV1TP4y1b7TR]], Community Forum Session at [OSU Cybersecurity Days https://cybersecurity.osu.edu/news-events/events/cybersecurity-days]
+  - 08/19/2021, Software Security: Past, Present, and Future [[PDF file/talks/CSDP21-Keynote-2021.pdf]], **Keynote** at the 3rd International Workshop on Cyber Security and Data Privacy ([CSDP'21 https://www.ittc.ku.edu/~bluo/CSDP/])
+  - 08/03/2021, Unveiling Insecure and Privacy-Risky Practice in Mobile Apps with Automated Program Analysis [[PPTX file/talks/Summer-School-ZJU-2021.pptx]], Invited talk at the systems security summer school at ZJU
+  - 03/26/2021, Uncovering Vulnerabilities in Bluetooth Devices with Automated Binary Analysis [[PDF file/talks/Bluetooth-Percom21-keynote.pdf]], **Keynote** at the International Workshop on Mobile and Pervasive Internet of Things ([PerIoT https://periot.github.io/2021/])
+  - 03/11/2021, Towards Confidential Computing with Trusted Execution Environment [[PPTX file/talks/TDAI-Talk-2021.pptx]], [TDAI Speaker Series  https://tdai.osu.edu/events/speaker-series]
+  - 03/09/2021, Privacy of COVID-19 ContactTracing Apps [[PDF file/talks/WONS_panel-2021.pdf]], Panel Discussion at the 16th Wireless On-demand Network systems and Services Conference ([WONS 2021 http://2021.wons-conference.org/program/])
+
+
+
+
+=== 2020 ===
+
+  - 12/04/2020, Automatically Uncovering Vulnerabilities in Bluetooth Applications from Binary Code [[PDF file/Bluetooth-UCI-2020.pdf]], virtual talk at UCI
+  - 11/14/2020, Hacking Bluetooth For Fun and Profit [[PPTX file/Hacking-Bluetooth-for-Fun-and-Profit.pptx]], virtual talk at [exploreCSR@OSU https://sites.google.com/view/explorecsrosu/home], [Labs file/Bluetooth_Security_Lab_2020.pdf] [Latex source https://www.overleaf.com/read/wbvbmvdpmnxt]
+  - 11/06/2020, Challenges in Digital Contact Tracing [[PDF file/challenges-digital-contact-tracing.pdf]], virtual panel at [IPCCC'20 https://www.ipccc.org/ipccc2020]
+  - 11/04/2020, Understanding the Attack Surface of Automotive IoT [[PDF file/Automotive-IoT-Security-2020.pdf]], virtual talk at UW Madison
+  - 09/04/2020, Confidential Computing in the Era of Data Economy [[PPTX file/talks/lightning-talk.pptx]], Lightning talk at faculty retreat in CSE OSU
+  - 04/21/2020, An App Centric Approach for Vulnerability Discovery in Mobile Platforms [[PDF file/Vmware-2020-Mobile-Security.pdf]], virtual talk at VMware
+
+
+
+
+
+=== 2019 ===
+
+  - 11/07/2019, Automatically Uncovering Vulnerabilities in Clouds From Mobile Apps [[PDF file/Cloud-Mobile-2019.pdf]], **distinguished lecture** at IBM Research Almaden
+
+
+
+
+%!include: ''iff.js''
+---------------------------------------------------------------------------
+[HOME index.html]
+
